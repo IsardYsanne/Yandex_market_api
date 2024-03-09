@@ -1,0 +1,13 @@
+${AnsiColor.BLUE}            ___                 ___   ___
+${AnsiColor.CYAN}           (   )               (   ) (   )
+${AnsiColor.BRIGHT_YELLOW}           | | .-.     .--.    | |   | |    .--.
+${AnsiColor.GREEN}           | |/   \   /    \   | |   | |   /    \
+${AnsiColor.CYAN}           |  .-. .  |  .-. ;  | |   | |  |  .-. ;
+${AnsiColor.BLUE}           | |  | |  |  | | |  | |   | |  | |  | |
+${AnsiColor.BRIGHT_YELLOW}           | |  | |  |  |/  |  | |   | |  | |  | |
+${AnsiColor.BLUE}           | |  | |  |  ' _.'  | |   | |  | |  | |
+${AnsiColor.GREEN}           | |  | |  |  .'.-.  | |   | |  | '  | |
+${AnsiColor.CYAN}           | |  | |  '  `-' /  | |   | |  '  `-' /
+${AnsiColor.CYAN}          (___)(___)  `.__.'  (___) (___)  `.__.'
+
+                                         
